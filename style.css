@@ -33,8 +33,9 @@ nav a {
 }
 
 .btn:hover {
-    background color: darkblue;  /* ERROR: Missing colon */
+    background-color: darkblue;  /* fixed */
 }
+
 
 
 
